@@ -1,3 +1,3 @@
 # Interest Calculator
 
-# Calculates Interest
+Calculates Interest
